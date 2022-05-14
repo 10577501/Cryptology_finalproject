@@ -3,6 +3,8 @@ It is a RSA demonstration platform./RSA教学演示平台
 
 RSA密码学教学演示平台使用说明
 
+运行RSAed文件
+
 一、密钥生成教学演示
 
 ![image](https://user-images.githubusercontent.com/102450906/168423926-9270d42f-d7d3-434f-aa4d-1438e725365d.png)
